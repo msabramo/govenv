@@ -2,12 +2,12 @@ golang for virtualenvwrapper
 ============================
 
 Very simple, effective go virtual environments that work directly with
-python's virtualenv and virtualenvwrapper.
+python's `virtualenv <https://virtualenv.pypa.io/en/latest/>`_ and `virtualenvwrapper <http://virtualenvwrapper.readthedocs.org/en/latest/index.html>`_.
 
 How does it work?
 -----------------
 
-It's just a virtualenvwrapper extension!
+It's just a `virtualenvwrapper extension <http://virtualenvwrapper.readthedocs.org/en/latest/plugins.html>`_!
 
 If you are already using that, just::
 
