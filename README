@@ -9,7 +9,7 @@ How does it work?
 
 It's just a virtualenvwrapper extension!
 
-If you are already using that, just
+If you are already using that, just::
 
   $ pip install govenv
 
@@ -18,7 +18,7 @@ a ``gopath`` directory in your venv folder to hold all your golang source.
 Now, whenever you activate that it will set your ``GOPATH`` and ``PATH``,
 and return it to its previous setting when you deactive.
 
-We also add an alias, if you don't have it:
+We also add an alias, if you don't have it::
 
   $ gohere
 
